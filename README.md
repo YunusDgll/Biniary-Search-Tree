@@ -5,7 +5,6 @@
 Soru: Yukarıdaki dizinin Binary Search tree aşamalarını çiziniz.
 
 Cevap:
-
          7
         / \
        5   8
